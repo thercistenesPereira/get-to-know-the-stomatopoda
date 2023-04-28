@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    display: flex;
+    padding: 40px;
+    background-color: #002200;
+    color: white;justify-content: space-between;
+    align-items: center;
+}
+header > nav > ul {
+    display: flex;
+    list-style: none;
+}
+header > nav > ul > li > a {
+    padding: 5px 10px;
+    color: white;
+    text-decoration: none;
+}
+header > nav > ul > li > a:hover {
+    background-color: white;
+    color: #002200;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
