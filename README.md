@@ -14,5 +14,11 @@ Este repositório contém informações sobre o Stomatopoda, uma ordem de crust�
 
 ## Como Contribuir
 1. Faça um fork do repositório.
-2. Clone o fork para sua máquina local: git clone `https://github.com/seu-usuario/stomatopoda.git`.
-3. 
+2. Clone o fork para sua máquina local: git clone `git@github.com:thercistenesPereira/sd-033-a-exercise-semantic-html.git`.
+3. Crie uma branch para suas alterações: `git checkout -b minha-feature`.
+4. Faça as alterações desejadas e adicione-as: `git add .`.
+5. Faça um commit das suas alterações: `git commit -m "Adiciona minha feature"`
+6. Envie as alterações para o seu fork: `git push origin minha-feature`.
+7. Crie um pull request para revisão.
+
+
