@@ -2,7 +2,9 @@
 
 Este repositório contém informações sobre o Stomatopoda, uma ordem de crustáceos marinhos conhecidos por suas habilidades visuais extraordinárias e comportamento predatório.
 
-![](../image/)
+<div align="center">
+  ![imagem](https://static.inaturalist.org/photos/30437316/medium.jpg)
+</div>
 
 ## Tecnologias Utilizadas
 
